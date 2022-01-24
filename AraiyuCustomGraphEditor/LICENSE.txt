@@ -1,0 +1,55 @@
+Copyright (c) 2022 Araiyu
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+Some parts of this plugin use Oleg Alexander's oaSmoothKeys, and the same license applies.
+The original copyright notice for oaSmoothKeys is here.
+
+# /* oaSmoothKeys downloaded from Highend3d.com
+# ''  
+# ''  Highend3d.com File Information:
+# ''  
+# ''    Script Name: oaSmoothKeys
+# ''    Author:  
+# ''    Last Updated: Jun 14, 2008
+# ''    Update/Change this file at:
+# ''    http://Highend3d.com/maya/downloads/mel_scripts/animation/5051.html
+# ''  
+# ''  Please do not alter any information above this line
+# ''  it is generated dynamically by Highend3d.com and will
+# ''  be changed automatically on any updates.
+# */
+# /*
+# ===========================================================================
+
+# <NAME> oaSmoothKeys.mel </NAME>
+# <VERSION> v1.1 </VERSION>
+# <AUTHORS> Oleg Alexander (olegalexander@gmail.com) </AUTHORS>
+# <WEBSITE> www.image-metrics.com </WEBSITE>
+
+# <DESCRIPTION>
+
+# "Blurs" selected keys. Perfect for animation cleanup and
+# for smoothing jittery mocap data. (Simplify Curve is not the same thing!)
+# </DESCRIPTION>
+
+# <TO_USE>
+
+# 	o Select at least 3 keys in the Graph Editor.
+# 	o Execute 'oaSmoothKeys'.
+# 	o Repeat as necessary. </TO_USE>
+
+# <HISTORY>
+
+# 	v1.1 (Saturday, June 14, 2008)
+# 		o New blur algorithm, instead of moving average.
+
+# 	v1.0 (Sunday, December 30, 2007)
+# 		o Original Release 	</HISTORY>
+
+# IF YOU ENJOY THIS MEL SCRIPT, PLEASE RATE IT. I WOULD APPRECIATE IT. THANK YOU!
+# ===========================================================================
